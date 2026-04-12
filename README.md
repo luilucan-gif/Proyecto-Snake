@@ -31,3 +31,6 @@ Para ejecutar el programa, abrir el archivo `juego.py` en Spyder o cualquier ent
 ## Diagrama de flujo
 
 ![Diagrama del juego Snake](diagrama.png)
+
+## Video explicativo
+[Ver video explicativo](https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/lulucasre_uide_edu_ec/IQAWXMMGL8nXS7HEG3UPO7VLAYqiKgR6cg6HP44Y96WnVvs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iActnB)
