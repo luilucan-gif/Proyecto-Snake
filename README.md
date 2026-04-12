@@ -27,3 +27,7 @@ Este proyecto se encuentra en fase de desarrollo inicial. El repositorio muestra
 
 ## Ejecución
 Para ejecutar el programa, abrir el archivo `juego.py` en Spyder o cualquier entorno de Python y ejecutarlo.
+
+## Diagrama de flujo
+
+![Diagrama del juego Snake](diagrama.png)
