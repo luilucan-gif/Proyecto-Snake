@@ -57,3 +57,7 @@ Se recibieron observaciones para mejorar la l처gica del programa, la organizaci�
 Se realizaron correcciones en la detecci처n de colisiones, estructura del c처digo y funcionamiento general del sistema.
 
 Finalmente, se dej처 el programa listo para su ejecuci처n y presentaci처n final. 
+
+### Tabla del cronograma
+
+![Cronograma del proyecto](cronograma.png)
