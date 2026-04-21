@@ -1,14 +1,15 @@
-# Proyecto Snake - Avance del desarrollo
+# Proyecto Snake - Desarrollo completo del juego
 
 ## Integrantes
 - Luis Andrés Lucas Reina
 
 ## Descripción
-Este proyecto corresponde al desarrollo inicial del juego Snake utilizando el lenguaje Python. En esta etapa se implementan conceptos básicos de programación y se evidencia el proceso mediante el uso de Git y GitHub.
+Este proyecto consiste en el desarrollo de un juego tipo Snake utilizando el lenguaje Python. Se implementaron diferentes funcionalidades como el movimiento de la serpiente, generación de comida, detección de colisiones y sistema de puntaje.
+
+El desarrollo del proyecto permitió aplicar conceptos fundamentales de programación, evidenciando el proceso mediante el uso de Git y GitHub.
 
 ## Objetivo
-Desarrollar progresivamente la lógica de un juego tipo Snake aplicando estructuras fundamentales de programación.
-
+Desarrollar la lógica completa de un juego tipo Snake aplicando estructuras fundamentales de programación, integrando los conocimientos adquiridos durante las diferentes unidades de la materia.
 ## Herramientas utilizadas
 - Python
 - Spyder
@@ -16,18 +17,28 @@ Desarrollar progresivamente la lógica de un juego tipo Snake aplicando estructu
 - GitHub
 
 ## Funcionalidades implementadas
-- Solicitud del nombre del jugador
-- Entrada y salida de datos
-- Movimiento básico de la serpiente según dirección
+
+- Movimiento de la serpiente en diferentes direcciones
+- Generación aleatoria de comida
+- Crecimiento de la serpiente al comer
+- Detección de colisiones (paredes y cuerpo)
+- Sistema de puntaje
+- Pantalla de Game Over
+- Reinicio del juego
+
+## Conceptos de programación aplicados
+
 - Uso de estructuras condicionales (`if`, `elif`, `else`)
-- Manejo de variables de posición
-- Verificación de comida
-- Actualización de puntaje
-- Repetición del programa mediante estructura `while`
+- Uso de bucles (`while`, `for`)
+- Uso de funciones para organizar el código
+- Uso de listas para almacenar la serpiente
+- Uso de tuplas para manejar coordenadas (x, y)
+- Manejo de eventos del teclado con pygame
 
 ## Estado del proyecto
-Este proyecto se encuentra en fase de desarrollo inicial. El repositorio muestra el progreso mediante varios commits, evidenciando la evolución del código paso a paso.
+El proyecto se encuentra finalizado en su versión funcional. Se desarrolló un juego tipo Snake utilizando Python y la librería pygame, integrando los conocimientos adquiridos en las diferentes unidades de la materia.
 
+El repositorio evidencia el desarrollo progresivo mediante commits, reflejando cada etapa del proceso hasta la entrega final.
 ## Ejecución
 Para ejecutar el programa, abrir el archivo snake_game.py en Spyder o cualquier entorno de Python y ejecutarlo.
 
@@ -36,7 +47,7 @@ Para ejecutar el programa, abrir el archivo snake_game.py en Spyder o cualquier 
 ## Video explicativo
 [Ver video explicativo](https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/lulucasre_uide_edu_ec/IQAWXMMGL8nXS7HEG3UPO7VLAYqiKgR6cg6HP44Y96WnVvs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iActnB)
 
-## Cronograma del proyecto
+## Cronograma del proyecto (7 semanas)
 
 El desarrollo del proyecto se organizó en 7 semanas, distribuidas de la siguiente manera:
 
