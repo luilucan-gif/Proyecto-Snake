@@ -1,5 +1,8 @@
 # Proyecto Snake - Avance del desarrollo
 
+## Integrantes
+- Luis Andrés Lucas Reina
+
 ## Descripción
 Este proyecto corresponde al desarrollo inicial del juego Snake utilizando el lenguaje Python. En esta etapa se implementan conceptos básicos de programación y se evidencia el proceso mediante el uso de Git y GitHub.
 
@@ -26,9 +29,7 @@ Desarrollar progresivamente la lógica de un juego tipo Snake aplicando estructu
 Este proyecto se encuentra en fase de desarrollo inicial. El repositorio muestra el progreso mediante varios commits, evidenciando la evolución del código paso a paso.
 
 ## Ejecución
-Para ejecutar el programa, abrir el archivo `juego.py` en Spyder o cualquier entorno de Python y ejecutarlo.
-
-## Diagrama de flujo
+Para ejecutar el programa, abrir el archivo snake_game.py en Spyder o cualquier entorno de Python y ejecutarlo.
 
 ![Diagrama del juego Snake](diagrama.png)
 
@@ -47,7 +48,7 @@ El desarrollo del proyecto se organizó en 7 semanas, distribuidas de la siguien
 - Semana 6: Entrega del Autónomo 2.
 - Semana 7: Evaluación en contacto con el docente (Autónomo 3) y ajustes finales del proyecto.
 
--## Evaluación en contacto con el docente (Autónomo 3)
+## Evaluación en contacto con el docente (Autónomo 3)
 
 Durante esta etapa se presentó el avance del proyecto al docente, mostrando el funcionamiento del juego Snake.
 
