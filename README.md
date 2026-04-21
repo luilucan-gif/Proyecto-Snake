@@ -45,7 +45,7 @@ Para ejecutar el programa, abrir el archivo snake_game.py en Spyder o cualquier 
 ![Diagrama del juego Snake](diagrama.png)
 
 ## Video explicativo
-[Ver video explicativo](https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/lulucasre_uide_edu_ec/IQAWXMMGL8nXS7HEG3UPO7VLAYqiKgR6cg6HP44Y96WnVvs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iActnB)
+[Ver video explicativo](https://mailinternacionaledu-my.sharepoint.com/:f:/g/personal/lulucasre_uide_edu_ec/IgCnwSHweCO7RY5a3abNtWGZAZ3QCCdIOTKMB9bR3FhIBak?e=Bpbzti)
 
 ## Cronograma del proyecto (7 semanas)
 
